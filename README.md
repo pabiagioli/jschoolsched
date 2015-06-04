@@ -1,5 +1,7 @@
 # jschoolsched
-This was my First J2ME project for College.
+J2ME Programmable School Schedule for old phones.
+
+
 Development IDE was NetBeans 6
 
 Last Jar & Jad build
@@ -15,6 +17,8 @@ Basically, at the time of this writting, if you have a Nokia 1100 you'll probabl
 Project Status
 --------------
 This project has been automatically exported from code.google.com/p/jschoolsched
+
+This was my First J2ME project for College. 
 At the moment I'm not supporting this project anymore for lack of users interested. If you want this project to continue please leave a Star and/or a comment via github.
 
 Happy Studies!
